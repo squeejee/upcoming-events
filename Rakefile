@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "upcoming-events"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Ruby wrapper for the Yahoo! Upcoming API}
+    gem.description = %Q{Find cool events and things to do.}
     gem.email = "wynn@squeejee.com"
     gem.homepage = "http://github.com/pengwynn/upcoming-events"
     gem.authors = ["Wynn Netherland"]

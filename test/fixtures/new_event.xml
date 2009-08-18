@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsp stat="ok" version="1.0">
+  <event id="1" name="Tori Amos, Ben Folds" tags="" description="The &quot;Lottapianos&quot; Tour.  Ben Folds is opening, and will      play a one hour set." start_date="2003-08-01" end_date="0000-00-00" start_time="19:00:00" end_time="" personal="0" selfpromotion="0" metro_id="1" venue_id="1" user_id="1" category_id="1" date_posted="2003-06-07" ticket_url="http://www.ticketweb.com" ticket_price="$10.00" ticket_free="0"/>
+</rsp>

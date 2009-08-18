@@ -1,0 +1,68 @@
+{
+    "rsp": {
+        "category": [{
+            "description": "Concerts, nightlife, raves",
+            "id": 1,
+            "name": "Music"
+        },
+        {
+            "description": "Theatre, dance, opera, exhibitions",
+            "id": 2,
+            "name": "Performing/Visual Arts"
+        },
+        {
+            "description": "Film, book readings",
+            "id": 3,
+            "name": "Media"
+        },
+        {
+            "description": "Rallies, gatherings, user groups",
+            "id": 4,
+            "name": "Social"
+        },
+        {
+            "description": "Lectures, workshops",
+            "id": 5,
+            "name": "Education"
+        },
+        {
+            "description": "Conventions, expos, flea markets",
+            "id": 6,
+            "name": "Commercial"
+        },
+        {
+            "description": "Big events, often multiple days",
+            "id": 7,
+            "name": "Festivals"
+        },
+        {
+            "description": "Sporting events, recreation",
+            "id": 8,
+            "name": "Sports"
+        },
+        {
+            "description": "Who knows?",
+            "id": 10,
+            "name": "Other"
+        },
+        {
+            "description": "Stand-up, improv, comic theatre",
+            "id": 11,
+            "name": "Comedy"
+        },
+        {
+            "description": "Rallies, fundraisers, meetings",
+            "id": 12,
+            "name": "Politics"
+        },
+        {
+            "description": "Family/kid-oriented music, shows, theatre",
+            "id": 13,
+            "name": "Family"
+        }
+        ],
+        "stat": "ok",
+        "version": 1
+    }
+}
+

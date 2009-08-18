@@ -1,0 +1,27 @@
+{
+    "rsp": {
+        "country": [{
+            "code": "us",
+            "id": 1,
+            "name": "United States"
+        },
+        {
+            "code": "ca",
+            "id": 2,
+            "name": "Canada"
+        },
+        {
+            "code": "se",
+            "id": 3,
+            "name": "Sweden"
+        },
+        {
+            "code": "de",
+            "id": 4,
+            "name": "Germany"
+        }
+        ],
+        "stat": "ok",
+        "version": 1
+    }
+}
