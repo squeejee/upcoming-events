@@ -10,7 +10,17 @@ begin
     gem.email = "wynn@squeejee.com"
     gem.homepage = "http://github.com/pengwynn/upcoming-events"
     gem.authors = ["Wynn Netherland"]
-    # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
+    gem.rubyforge_project = "upcoming-events"
+    gem.files             = FileList["[A-Z]*", "{examples,lib,test}/**/*"]
+    
+    gem.add_dependency('mash', '0.0.3')
+    gem.add_dependency('httparty', '0.4.3')
+    
+    gem.add_development_dependency('thoughtbot-shoulda')
+    gem.add_development_dependency('jeremymcanally-matchy')
+    gem.add_development_dependency('mocha')
+    gem.add_development_dependency('fakeweb')
+    gem.add_development_dependency('mash')
   end
 
 rescue LoadError

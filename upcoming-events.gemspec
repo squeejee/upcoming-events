@@ -45,7 +45,8 @@ Gem::Specification.new do |s|
      "test/upcoming/auth_test.rb",
      "test/upcoming/category_test.rb",
      "test/upcoming/country_test.rb",
-     "test/upcoming/event_test.rb"
+     "test/upcoming/event_test.rb",
+     "upcoming-events.gemspec"
   ]
   s.homepage = %q{http://github.com/pengwynn/upcoming-events}
   s.rdoc_options = ["--charset=UTF-8"]
